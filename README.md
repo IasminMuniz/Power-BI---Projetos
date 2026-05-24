@@ -16,4 +16,4 @@ Abaixo estão os projetos consolidados neste repositório:
 ### 2. Dashboard de Resumo Geral do Ensino Suprior no Brasil (INEP)
 * **Setor:** Educação / Ensino Superior
 * **Descrição:** Painel estratégico focado nas métricas de negócio e indicadores educacionais/financeiros da Cogna. Desenvolvido para mapear a jornada de dados do setor de ensino e entregar insights de eficiência operacional. *(Dica: Ajuste esta breve descrição com o foco real do seu 2º painel, ex: evasão de alunos, captação, matrículas...)*
-* **🚀 [Acessar Dashboard Interativo](LINK_DO_POWER_BI_SE_HOUVER)
+* **🚀 [Acessar Dashboard Interativo](Análise do Censo da Educação Superior 2024.pbix)
