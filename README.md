@@ -16,3 +16,9 @@ Abaixo estão os projetos consolidados neste repositório:
 * **Setor:** Educação / Ensino Superior
 * **Descrição:** Painel estratégico focado nas métricas de negócio e indicadores educacionais/financeiros da Cogna. Desenvolvido para mapear a jornada de dados do setor de ensino e entregar insights de eficiência operacional. *(Dica: Ajuste esta breve descrição com o foco real do seu 2º painel, ex: evasão de alunos, captação, matrículas...)*
 * **🚀
+
+---
+
+### 🌐 Vamos nos conectar?
+- 💼 www.linkedin.com/in/iasmin-muniz
+- 📧 E-mail: iasminlhmuniz@gmail.com
