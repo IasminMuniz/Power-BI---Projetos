@@ -11,9 +11,8 @@ Abaixo estão os projetos consolidados neste repositório:
 ### 1. Dashboard de Performance Comercial Imobiliária
 * **Setor:** Incorporação e Construção Civil
 * **Descrição:** Painel desenvolvido focado no ecossistema comercial imobiliário. Realiza a análise completa do funil de vendas, desde a atração de leads (*prospects*) até a conversão final, permitindo avaliar o VGV (Valor Geral de Vendas) gerado pela equipe de corretores por região e empreendimento.
-* **🚀 🚀 [(https://github.com/IasminMuniz/Power-BI---Projetos/blob/7f9c093aeb12e874ebc1900ba9a96b9634727174/An%C3%A1lise%20do%20Censo%20da%20Educa%C3%A7%C3%A3o%20Superior%202024.pbix)]
-
+* **🚀
 ### 2. Dashboard de Resumo Geral do Ensino Suprior no Brasil (INEP)
 * **Setor:** Educação / Ensino Superior
 * **Descrição:** Painel estratégico focado nas métricas de negócio e indicadores educacionais/financeiros da Cogna. Desenvolvido para mapear a jornada de dados do setor de ensino e entregar insights de eficiência operacional. *(Dica: Ajuste esta breve descrição com o foco real do seu 2º painel, ex: evasão de alunos, captação, matrículas...)*
-* **🚀🚀 [Acessar Dashboard Interativo](LINK_DO_POWER_BI_SE_HOUVER)
+* **🚀
